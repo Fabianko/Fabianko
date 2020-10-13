@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Fabianko) ![Linkedin Badge](https://img.shields.io/badge/-fabian.arismendi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabián-arismendi-ferrada-83206534/)
 
 
-![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true) ![Fabianko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=fabianko)
+![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true) 
 
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
@@ -19,6 +19,5 @@
 - :boom: awesome octoprofile : [Fabianko](https://octoprofile.now.sh/user?id=fabianko)
 - ⚡ Languages: **PYTHON | SQL | JS | TS | RUBY** 
 </br>
-
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&theme=gradient&hide_langs_below=4'/>
