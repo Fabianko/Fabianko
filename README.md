@@ -17,6 +17,6 @@
 - :bulb:taught at the university **since 2014**
 - :boom: awesome octoprofile : [Fabianko](https://octoprofile.now.sh/user?id=fabianko)
 - ⚡ Languages: **PYTHON | SQL | JS | TS | RUBY** 
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&theme=radical&hide_langs_below=4'/>
-<img src='https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true&theme=radical&count_private=true' />
+</br>
+[![Fabianko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabianko)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&theme=gradient&hide_langs_below=4'/>
