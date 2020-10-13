@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/Fabianko) [![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabián-arismendi-ferrada-83206534/)]
+
+
+
+
+
+
 <!--
 **Fabianko/Fabianko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
