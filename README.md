@@ -6,7 +6,7 @@
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&theme=radical&hide_langs_below=4'/>
 <img src='https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true&theme=radical&count_private=true' />
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true)
+![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true)
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
