@@ -2,7 +2,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Fabianko) ![Linkedin Badge](https://img.shields.io/badge/-fabian.arismendi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabián-arismendi-ferrada-83206534/)
 
 
-![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true)
+![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true) ![Fabianko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=fabianko)
+
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
@@ -19,6 +20,5 @@
 - ⚡ Languages: **PYTHON | SQL | JS | TS | RUBY** 
 </br>
 
-![Fabianko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabianko)
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&theme=gradient&hide_langs_below=4'/>
