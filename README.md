@@ -1,7 +1,7 @@
 ### Hi there, i'm Fabián Arismendi 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Fabianko) ![Linkedin Badge](https://img.shields.io/badge/-fabian.arismendi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabián-arismendi-ferrada-83206534/)
 
-![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true) ![topLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&hide_langs_below=4)  
+![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true&include_all_commits=true) ![topLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&hide_langs_below=4)  
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
