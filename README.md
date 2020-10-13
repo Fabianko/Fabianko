@@ -18,5 +18,5 @@
 - :boom: awesome octoprofile : [Fabianko](https://octoprofile.now.sh/user?id=fabianko)
 - ⚡ Languages: **PYTHON | SQL | JS | TS | RUBY** 
 </br>
-[![Fabianko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabianko)](https://github.com/anuraghazra/github-readme-stats)
+![Fabianko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabianko)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&theme=gradient&hide_langs_below=4'/>
