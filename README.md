@@ -4,7 +4,7 @@
 ![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true&include_all_commits=true) ![topLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&layout=compact)  
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
-<img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://raw.githubusercontent.com/fabianko/fabianko/master/Monkey_Kid_Coding.gif' align='left'>
 
 - :school: I'm [Fabián Arismendi](https://fabianko.github.io/) :chile:, I have a master's degree in computer engineering from the Universidad De Santiago, Chile
 - 🔭 I’m currently working on  **Competitive Programming and Spoken English**
