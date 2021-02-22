@@ -2,10 +2,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Fabianko) ![Linkedin Badge](https://img.shields.io/badge/-fabian.arismendi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabián-arismendi-ferrada-83206534/)
 
-![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true&include_all_commits=true) ![topLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&layout=compact)
+![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)![topLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&layout=compact&count_private=true&theme=chartreuse-dark&langs_count=10)
 
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <img src='img/Monkey_Kid_Coding.gif' align='left'>
+<h3 align="left">About me:</h3>
 
 - :school: I'm [Fabián Arismendi](https://fabianko.github.io/) :chile:, I have a master's degree in computer engineering from the Universidad De Santiago, Chile
 - 🔭 I’m currently working on **Competitive Programming and Spoken English**
