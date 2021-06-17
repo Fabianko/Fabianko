@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Competitive Programming and Spoken English**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently learning **Data Analysis with Python and Natural Language Processing**
-- 🤔 I’m looking for help with Dockers and Kubernetes 😭
+- 🤔 I’m looking for help with Kubernetes 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
 - :bulb:taught at the university **since 2014**
