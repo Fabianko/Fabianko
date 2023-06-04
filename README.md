@@ -48,11 +48,12 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="img/css3.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="img/html5.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="img/js.png" alt="javascript" width="40" height="40"/>  </a> 
+<a href="https://npmjs.com" target="_blank"> <img src="img/npm.png" alt="npm" width="40" height="40"/>  </a> 
 <a href="https://materializecss.com/" target="_blank"> <img src="img/materialize.png" alt="materialize" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="img/tailwind.png" alt="tailwindcss" width="40" height="40"/> </a> 
 <a href="https://bootswatch.com/" target="_blank"> <img src="img/bootswatch.png" alt="bootswatch" width="40" height="40"/> </a> 
 <a href="https://materializecss.com/" target="_blank"> <img src="img/ubuntu.png" alt="materialize" width="40" height="40"/> </a>
 <a href="https://www.datadoghq.com/" target="_blank"> <img src="img/datadog.png" alt="datadog" width="40" height="40"/> </a>  
-<a href="https://www.datadoghq.com/" target="_blank"> <img src="img/jira.png" alt="datadog" width="40" height="40"/> </a> 
+<a href="https://jira.atlassina.com" target="_blank"> <img src="img/jira.png" alt="jira" width="40" height="40"/> </a> 
 </p>
  
