@@ -3,7 +3,6 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/-fabianko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianko/)
 
-![Fabianko's Github stats](https://github-readme-stats.vercel.app/api?username=fabianko&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)![topLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianko&layout=compact&count_private=true&theme=chartreuse-dark&langs_count=10)
 
 
 <img src='img/Monkey_Kid_Coding.gif' align='left'>
