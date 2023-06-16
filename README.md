@@ -2,6 +2,8 @@
 <a href="https://fabianko.com/">Fabián Arismendi</a> 👋🇨🇱 </h1>
 
 ![Linkedin Badge](https://img.shields.io/badge/-fabianko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianko/)
+<a href="https://www.linkedin.com/in/fabianko/">GO</a>
+
 
 
 
