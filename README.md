@@ -7,7 +7,6 @@
 <a href="https://platzi.com/p/fabianko_/"><img src="img/platzi.png" width="30" height="30"  >
 </a>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fabianko)](https://github.com/fabianko/)
 
 
 
