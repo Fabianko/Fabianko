@@ -11,7 +11,7 @@
 
 
 
-<img src='img/gif_dev.gif' align='left'>
+<img src='img/gif_dev.gif' align='left' width="350" height="300" >
 <h3 align="left" style="color:#59d102">About me:</h3>
 
 - :school: I'm a passionate computer engineer with a master's degree from the University of Santiago de Chile.
