@@ -1,14 +1,18 @@
-<h1 style="color:green"> Hey there!, i'm 
-<a href="https://fabianko.com/">Fabián Arismendi</a> 👋🇨🇱 </h1>
+<h1 style="color:#59d102"> Hey there!, i'm 
+<a href="https://www.fabianko.com/">Fabián Arismendi</a> 👋🇨🇱 </h1>
 
-![Linkedin Badge](https://img.shields.io/badge/-fabianko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianko/)
-<a href="https://www.linkedin.com/in/fabianko/">GO</a>
+<a href="https://www.linkedin.com/in/fabianko/"><img src="https://img.shields.io/badge/-fabianko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianko/" alt="https://www.linkedin.com/in/fabianko/"></a>
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dfabianko&longCache=true"/>
+<img src="https://komarev.com/ghpvc/?username=fabianko&color=brightgreen" alt="watching_count" />
+<a href="https://platzi.com/p/fabianko_/"><img src="img/platzi.png" width="30" height="30"  >
+</a>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fabianko)](https://github.com/fabianko/)
 
 
 
-
-<img src='img/Monkey_Kid_Coding.gif' align='left'>
-<h3 align="left" style="color:green">About me:</h3>
+<img src='img/gif_dev.gif' align='left'>
+<h3 align="left" style="color:#59d102">About me:</h3>
 
 - :school: I'm a passionate computer engineer with a master's degree from the University of Santiago de Chile.
 🔭 Currently, I'm diving deep into **Competitive Programming** and **polishing my spoken English skills**.
