@@ -27,7 +27,6 @@
 <p align="left"> 
 <a href="https://angular.io" target="_blank"> <img src="img/angular.png" alt="angularjs" width="40" height="40"/> </a> 
 <a href="https://vuejs.org" target="_blank"> <img src="img/vue.png" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://react.dev/" target="_blank"> <img src="img/react.png" alt="react" width="40" height="40"/>  </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="img/typescript.png" alt="typescript" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="img/java.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="img/spring.png" alt="spring" width="40" height="40"/> </a> 
